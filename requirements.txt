@@ -1,0 +1,22 @@
+
+# Big Data Processing
+pyspark>=3.5.0
+
+# Data Processing and Analysis
+numpy>=1.24.0
+pandas>=2.0.0
+pyarrow>=14.0
+
+# Data Visualization
+matplotlib>=3.7.0
+
+# REST API
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+
+# API Testing
+httpx>=0.27.0
+
+# Jupyter Notebook
+notebook>=7.0.0
+ipykernel>=6.0.0
